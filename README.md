@@ -1,2 +1,4 @@
-# learn-sequelize-sqlite
-用于学习使用 sqlite
+npx sequelize-cli db:migrate
+
+npx sequelize-cli db:migrate:undo
+
